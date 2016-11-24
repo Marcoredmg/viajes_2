@@ -1,0 +1,85 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+	font-family: 'Open Sans Condensed', sans-serif !important;
+	background-color: #C0D8EC;
+}
+
+select {
+	display: block;
+}
+
+.font-prices{
+
+
+font-family: 'Droid Sans', sans-serif;
+font-size: 120%;
+
+}
+
+.font-table{
+
+font-family: 'Trirong', serif;
+
+
+}
+
+.side-desc{
+	font-family: 'Lobster', cursive;
+}
+
+.nav-wrapper{
+	background-color: #0089EC;
+}
+
+.img-tr {
+	width: 200px;
+	height: 200px;
+}
+
+.img-cr{
+	margin-top: -50px;
+	width: 300px !important;
+	height: 300px !important;
+}
+.img-logo{
+	width: 200px;
+	height: 100px;
+}
+
+.slides{
+	height: 450px !important;
+}
+
+.slider{
+	height: 500px !important;
+}
+
+.detail-panel{
+	background-color: #FAFAFF;
+}
+
+.slider .indicators .indicator-item.active{
+	background-color: #0089EC;
+}
+.titulo{
+	background-color: #0089EC;
+	color: #FAFAFA;
+	margin: 0;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+.nav-side{
+	height: 100%;
+	min-height: 100%;
+}
+
+.select-personas{
+	margin-left: 32.5% !important;
+	margin-bottom: 15px;
+	
+}
